@@ -1,4 +1,4 @@
-﻿<Properties StartupConfiguration="{16439200-4DC4-40B0-A6CC-F7C4A4735F09}|https">
+﻿<Properties GitUserInfo="UsingGIT" StartupConfiguration="{16439200-4DC4-40B0-A6CC-F7C4A4735F09}|https">
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.DestinyBlazor FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.DestinyBlazor PreferredExecutionTarget="/Applications/Google Chrome.app" FirstBuild="True" />
 </Properties>
