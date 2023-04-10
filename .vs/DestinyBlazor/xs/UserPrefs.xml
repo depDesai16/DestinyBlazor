@@ -1,4 +1,31 @@
 ﻿<Properties GitUserInfo="UsingGIT" StartupConfiguration="{16439200-4DC4-40B0-A6CC-F7C4A4735F09}|https">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.DestinyBlazor PreferredExecutionTarget="/Applications/Google Chrome.app" FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="DestinyBlazor/Shared/NavMenu.razor">
+    <Files>
+      <File FileName="DestinyBlazor/Pages/Counter.razor" Line="1" Column="1" />
+      <File FileName="DestinyBlazor/Pages/Destiny.razor" Line="11" Column="1" />
+      <File FileName="DestinyBlazor/Shared/NavMenu.razor" Line="28" Column="52" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="DestinyBlazor" expanded="True">
+            <Node name="DestinyBlazor" expanded="True">
+              <Node name="Data" expanded="True" />
+              <Node name="Pages" expanded="True" />
+              <Node name="Shared" expanded="True">
+                <Node name="NavMenu.razor" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.DestinyBlazor PreferredExecutionTarget="/Applications/Google Chrome.app" />
 </Properties>
